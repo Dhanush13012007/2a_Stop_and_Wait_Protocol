@@ -52,10 +52,13 @@ s.close()
 ```
 ## OUTPUT
 server.py
+
 <img width="1082" height="466" alt="Screenshot 2026-11-03 134020" src="https://github.com/user-attachments/assets/e2003c41-40ff-4d9c-a302-417e983541c7" />
 
 
 client.py
+
+
 <img width="481" height="392" alt="Screenshot 2026-11-03 134030" src="https://github.com/user-attachments/assets/0dcf4639-38b5-4a5a-9e2e-c5c1e81827de" />
 
 ## RESULT
